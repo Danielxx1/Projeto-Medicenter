@@ -1,5 +1,5 @@
 # Projeto-Medicenter
-# Big Game Survey 
+ 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Danielxx1/Projeto-Medicenter/blob/main/LICENSE) 
 
 # Sobre o projeto
